@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+    <style>
+        body {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            background-color: #e8e8e8;
+            padding: 20px 40px;
+        }
+
+        /* Heading styles */
+        .section-title {
+            font-size: 32px;
+            font-weight: bold;
+            color: #000;
+        }
+
+        /* Color classes */
+        .orange {
+            color: #cc7a29;
+        }
+
+        .green {
+            color: #2e8b57;
+        }
+
+        .red {
+            color: #cc3333;
+        }
+
+        .black {
+            color: #000;
+        }
+        
+
+        /* List styles */
+        #biryani-list {
+            font-size: 18px;
+        }
+
+       
+
+        #fighter-list {
+            font-size: 18px;
+        }
+
+        #lassi-list {
+            font-size: 18px;
+        }
+
+
+    </style>
+</head>
+<body>
+
+    <!-- Biryani Section -->
+    <h1 class="section-title" id="biryani-heading">Ingredients for Biryani</h1>
+    <ul id="biryani-list">
+        <li class="orange">Rice</li>
+        <li class="orange">Chicken
+            <ul>
+                <li class="black">Fried</li>
+                <li class="black">Grilled</li>
+                <li class="black">Roasted</li>
+            </ul>
+        </li>
+        <li class="green" style="color: aqua;">Paneer</li>
+    </ul>
+
+    <!-- Fighter Jet Section -->
+    <h1 class="section-title" id="fighter-heading">Fighter Jet</h1>
+    <ul id="fighter-list">
+        <li class="orange">Spices</li>
+        <li class="orange">Gas/Electric</li>
+    </ul>
+
+    <!-- Lassi Section -->
+    <h1 class="section-title" id="lassi-heading">Ingredients for Lassi</h1>
+    <ul id="lassi-list">
+        <li class="green">Curd</li>
+        <li class="green">Water</li>
+        <li class="green">Sugar
+            <ul>
+                <li class="red">White Sugar</li>
+                <li class="red">Brown Sugar</li>
+            </ul>
+        </li>
+        <li class="green">Malai</li>
+        <li class="green">Kova</li>
+    </ul>
+
+</body>
+</html>

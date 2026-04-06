@@ -1,0 +1,21 @@
+a:active{
+    color: salmon;
+}
+a:hover{
+    color: green;
+}
+a:link{
+    color: rgb(205, 211, 37);
+}
+a:visited{
+    color: rgb(187, 74, 196);
+}
+
+input:focus{
+    background-color: rgb(123, 163, 183);
+    color: yellow;
+}
+input:checked{
+   accent-color: rgb(209, 21, 52);
+    color: rgb(209, 21, 52);
+}

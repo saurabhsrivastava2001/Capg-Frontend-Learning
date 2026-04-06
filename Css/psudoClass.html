@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1::first-letter{
+            font-size: 60px;
+            color: brown;
+        }
+        p::first-line{
+            font-size: 20px;
+            color:rgb(226, 142, 94);
+        }
+        h1::before,h1::after{
+            content: '🤣';
+        }
+        h1::selection,p::selection{
+            color: blueviolet;
+        }
+        li::marker{
+            content: "‼️";
+        }
+        input::placeholder{
+            color: rgb(201, 123, 123);
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome</h1>
+    <p>Lorem ipsum dolor sit amet <br>consectetur adipisicing elit. Quod praesentium rem vitae, culpa aliquid voluptate molestiae veritatis nisi, unde et reprehenderit cumque alias inventore iusto odit. Sequi blanditiis reprehenderit minus.</p>
+    <ul>
+        <li>
+            hello
+        </li>
+        <li>
+            <input type="text" placeholder="enter the name">
+        </li>
+    </ul>
+</body>
+</html>
