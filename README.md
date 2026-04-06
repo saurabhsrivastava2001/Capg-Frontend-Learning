@@ -19,11 +19,11 @@
 
 ## 📖 About This Repository
 
-This repository documents my **structured, hands-on journey** through frontend web development — starting from the very fundamentals of **HTML5** and **CSS3**. Every file here represents deliberate practice, every folder a milestone conquered.
+Hey! 👋 I'm Saurabh — a masters student who's been deep into **Java backend development** for a while now (Spring Boot, microservices, the whole nine yards). But I realized that to truly call myself a full-stack developer, I need to get my hands dirty with the frontend too.
 
-> _"I don't just learn technologies — I **master** them. One commit at a time."_
+So here I am, starting from scratch — **HTML5 and CSS3** — and honestly documenting every single thing I learn along the way. No skipping basics, no copy-pasting templates. Just me, grinding through every concept and building stuff to actually understand how it works.
 
-As a developer who has already built **production-grade microservice architectures** with Spring Boot, I'm now channeling that same **relentless dedication** into conquering the frontend stack. This isn't a casual walkthrough — it's a **disciplined, zero-to-hero deep dive** into every concept that makes the modern web tick.
+This repo is messy in the way real learning is. You'll see my class exercises, homework assignments, random tasks, and mini-projects — all proof that I'm putting in the hours. The goal? Go from here all the way to **React** and connect it with my Spring Boot backend skills to become a proper full-stack Java developer.
 
 ---
 
