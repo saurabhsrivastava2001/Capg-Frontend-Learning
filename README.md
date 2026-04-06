@@ -19,7 +19,7 @@
 
 ## 📖 About This Repository
 
-Hey! 👋 I'm Saurabh — a masters student who's been deep into **Java backend development** for a while now (Spring Boot, microservices, the whole nine yards). But I realized that to truly call myself a full-stack developer, I need to get my hands dirty with the frontend too.
+Hey! 👋 I'm Saurabh — a masters student who's been deep into **Java backend development** for a while now (Spring Boot, microservices, the whole nine yards). But I realized that to truly call myself a full-stack developer, I need to get my hands colored with the frontend too.
 
 So here I am, starting from scratch — **HTML5 and CSS3** — and honestly documenting every single thing I learn along the way. No skipping basics, no copy-pasting templates. Just me, grinding through every concept and building stuff to actually understand how it works.
 
